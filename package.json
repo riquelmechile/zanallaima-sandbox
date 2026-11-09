@@ -1,0 +1,9 @@
+{
+  "name": "zanallaima-sandbox",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Repo de prueba para ZanaLLaima: aquí GPT practica misiones chicas.",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=22" }
+}
